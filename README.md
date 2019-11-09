@@ -58,3 +58,9 @@ In jupyter, open `Demo.ipynb` and follow instructions.
 ## Train Agent
 In jupyter, open `Train.ipynb` and follow instructions.
 
+## Recording
+See recording of trained agent play:
+
+![Tennis Agent playing](images/tennis.gif?raw=true "Tennis Agent playing")
+
+
