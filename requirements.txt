@@ -1,0 +1,4 @@
+git+https://github.com/udacity/deep-reinforcement-learning@dc65050#subdirectory=python
+gym
+gym[classic_control]
+gym[box2d]
